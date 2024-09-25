@@ -9,4 +9,4 @@ This project intends practice:
 - How set and use template engines to render Views
 - How deploy Express app using a PaaS (adaptable.io)
 
-[Live preview](https://minimessage-board.adaptable.app/) :point_left:
+**TODO: Add live preview**
